@@ -1,0 +1,377 @@
+1510820889711	geckodriver	INFO	geckodriver 0.19.1
+1510820889716	geckodriver	INFO	Listening on 127.0.0.1:62703
+1510820891553	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XUCHUN~1.CHE\\AppData\\Local\\Temp\\rust_mozprofile.m69QrtHtpVAa"
+1510820892391	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510820892944	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 779480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 783048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 783048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510820896983	Marionette	INFO	Listening on port 62715
+1510820897262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510820898110	Marionette	DEBUG	Register listener.js for window 4294967297
+1510820898142	MaUnable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 686884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\LocJavaScript error: chrome://browser/content/browser.js, line 6647: TypeError: cannot use the given object as a weak map key
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 534204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400F0,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 531776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400F5,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+[Child 531776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+uery110204835209969212958_1510820898896 is not a function
+JavaScript error: https://sp0Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+[Parent 538568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 536968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 536968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Crash Reporter: blocking on minidumpgeneration.","state":"(none)","filename":"z:/build/build/src/ipc/glue/CrashReporterHost.cpp","lineNumber":192,"stack":"Minidump generation"}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+RunMessage] Error: Channel error: cannot send/recv
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":518,"stack":["jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js:addBlocker:159","resource://gre/modules/PlacesUtils.jsm:null:2027","resource://gre/modules/XPCOMUtils.jsm:get:199","chrome://browser/content/places/browserPlacesViews.js:set place:55","chrome://browser/content/places/browserPlacesViews.js:PlacesViewBase:18","chrome://browser/content/places/browserPlacesViews.js:PlacesToolbar:987","chrome://browser/content/browser-places.js:PTH_init:1173","chrome://browser/content/browser.js:_delayedStartup:1629"]}] Barrier: profile-before-change
+cking on minidumpgeneration.
+[Parent 1026208] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+tps://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000BC24000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000BC2E000)::ForceLoseContext
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 6647: TypeError: cannot use the given object as a weak map key
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: ExcJavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WeJavaJavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyJavaScript error: jar:file:///F:/Program%Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScr[Parent 1026464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip
+###!!! [Parent][MessageCha
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+NG: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1019572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+observe@resource://gre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":518,"stack":["jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js:addBlocker:159"]}] Barrier: profile-before-change
+eeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000212E0800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000212E5800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000212EA000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A1D000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A22800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A29800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A2F000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A36000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000020551000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013C18000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013C1D800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013C29000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013C30000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000001A414800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000020F43800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023556000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002355A800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023560000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023564000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002356A800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002356F000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023574000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000EEAB800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000EEB4000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000EEB3800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000000EEC4000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000013A30000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023574800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F5B000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F60000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F65000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F6B800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F70000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F75000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BB3000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BB9800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BBE000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BC3000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BC8000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023BCE800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BBC800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BC1000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BC6800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BCD000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BD1800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BD6000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BDC000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025276000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002527A000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002527E800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025284000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002528C800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025286800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024951800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024957000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002495F000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024964000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024968000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025289800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002185C800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000021862800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000021868000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002186F800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F5A000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000024BCF000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025290800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000022F09800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000022F12800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000022F19000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000022F20800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000023F75800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000026693800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000025288000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002669B000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002669F000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000266A6800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000266AB800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000266B0000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028357000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002835F800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028364000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028367000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028363800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028374800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028371800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028476800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002847B000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028482800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028486800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000000002848B000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028491800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028B06800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028B0D800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028B11800)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028B18000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m126_1.0.1/pp_index_dl_7f129ca5fc22211770640e2a7a705f30.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000000028B1D000)::ForceLoseContext
+JavaScript warning: https://ursdoccdn.nosdn.127.net/cap/ec2.2.8.js, line 25: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000000281B3000)::ForceLoseContext
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 697168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xuchun.chen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 700920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 700920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+/modules/Timer.jsm:30:5
+
+[Parent 699772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 699772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":518,"stack":["jar:file:///F:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js:addBlocker:159","resource://gre/modules/PlacesUtils.jsm:null:2027","resource://gre/modules/XPCOMUtils.jsm:get:199","chrome://browser/content/places/browserPlacesViews.js:set place:55","chrome://browser/content/places/browserPlacesViews.js:PlacesViewBase:18","chrome://browser/content/places/browserPlacesViews.js:PlacesToolbar:987","chrome://browser/content/browser-places.js:PTH_init:1173","chrome://browser/content/browser.js:_delayedStartup:1629"]}] Barrier: profile-before-change
